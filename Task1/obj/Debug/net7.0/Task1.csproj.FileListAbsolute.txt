@@ -1,0 +1,15 @@
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/bin/Debug/net7.0/Task1
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/bin/Debug/net7.0/Task1.deps.json
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/bin/Debug/net7.0/Task1.dll
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/bin/Debug/net7.0/Task1.pdb
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.dll
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/refint/Task1.dll
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.pdb
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/home/stanislav/Семнары С#/Homework 6 Массивы и строки/Task1/obj/Debug/net7.0/ref/Task1.dll
